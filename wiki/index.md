@@ -25,6 +25,9 @@ tags: [index]
 - [[distros/debian/pop-os]] - Ubuntu-based System76 distribution with COSMIC Desktop
 - [[distros/fedora/index]] - Fedora, RHEL-family, and rpm-ostree relatives
 - [[distros/fedora/fedora-workstation]] - Flagship Fedora desktop edition with GNOME
+- [[distros/fedora/fedora-kde-plasma]] - Fedora desktop edition with KDE Plasma
+- [[distros/fedora/fedora-silverblue]] - Atomic Fedora desktop with GNOME
+- [[distros/fedora/fedora-kinoite]] - Atomic Fedora desktop with KDE Plasma
 - [[distros/fedora/bazzite]] - Fedora Atomic/uBlue gaming-focused image
 - [[distros/distro-page-template]] - Template for maintained distro pages
 
@@ -39,6 +42,7 @@ tags: [index]
 ## Customization
 
 - [[customization/customization-template]] - Template for customization guides
+- [[customization/desktop-navigation]] - Launchers, workspaces, shortcuts, and desktop movement concepts
 - [[customization/desktop-environments]] - GNOME, KDE Plasma, Xfce, Cinnamon, and related choices
 - [[customization/window-managers]] - Tiling and stacking window-manager workflows
 - [[customization/terminals-and-shells]] - Terminal emulators, shells, prompts, and CLI workflow

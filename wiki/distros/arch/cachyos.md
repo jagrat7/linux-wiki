@@ -87,6 +87,10 @@ CachyOS uses Arch-family package management with `pacman`, but adds CachyOS repo
 
 CachyOS exposes a large set of desktop and window-manager choices during installation. The homepage lists KDE Plasma, GNOME, COSMIC, Hyprland, Sway, Niri, i3, XFCE, and more.
 
+## Navigation
+
+CachyOS navigation depends on the desktop or window manager selected during installation. Use [[../../customization/desktop-navigation]] for shared desktop concepts, then follow the selected [[../../systems/graphics-and-display/kde-plasma]], [[../../systems/graphics-and-display/gnome]], [[../../systems/graphics-and-display/cosmic]], [[../../systems/graphics-and-display/hyprland]], [[../../systems/graphics-and-display/sway]], or [[../../systems/graphics-and-display/niri]] workflow.
+
 ## Strengths
 
 - Arch base with easier installation paths
@@ -114,6 +118,7 @@ CachyOS is rolling release. Track freshness through the official homepage, wiki,
 - [[../../systems/package-management/cachyos-repositories]]
 - [[../../systems/boot-and-init/linux-cachyos]]
 - [[../../systems/package-management/cachyos-installer]]
+- [[../../customization/desktop-navigation]]
 - [[../../systems/graphics-and-display/kde-plasma]]
 - [[../../systems/graphics-and-display/gnome]]
 - [[../../systems/graphics-and-display/cosmic]]

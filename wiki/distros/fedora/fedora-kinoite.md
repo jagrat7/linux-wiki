@@ -30,9 +30,14 @@ Fedora Kinoite is an atomic KDE Plasma-based Fedora desktop.
 - App model: [[../../systems/package-management/flatpak]] and containers
 - Install method: ISO download
 
+## Navigation
+
+Fedora Kinoite uses [[../../systems/graphics-and-display/kde-plasma]] for desktop navigation. Start with the application launcher, KRunner, virtual desktops, window switching, and shortcut settings; use [[../../customization/desktop-navigation]] for shared navigation concepts.
+
 ## Related Pages
 
 - [[index]]
+- [[../../customization/desktop-navigation]]
 - [[../../systems/package-management/rpm-ostree]]
 - [[../../systems/package-management/flatpak]]
 - [[../../systems/graphics-and-display/kde-plasma]]

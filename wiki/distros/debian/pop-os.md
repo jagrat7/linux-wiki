@@ -86,6 +86,10 @@ The same repository says COSMIC Epoch is no longer receiving updates on Pop!_OS 
 
 Pop!_OS 24.04 centers customization around COSMIC. System76 describes COSMIC as supporting panels, applets, theming, tiling, launcher, app library, keyboard shortcuts, and dynamic or pinned workspaces.
 
+## Navigation
+
+Pop!_OS 24.04 uses [[../../systems/graphics-and-display/cosmic]] for desktop navigation. Start with COSMIC's launcher, app library, workspaces, tiling controls, and keyboard shortcut settings; use [[../../customization/desktop-navigation]] for the shared navigation vocabulary.
+
 ## Strengths
 
 - Polished desktop distribution from a Linux hardware company
@@ -111,6 +115,7 @@ The official download page says Pop!_OS 24.04 LTS includes COSMIC Desktop, repla
 - [[../../systems/package-management/apt]]
 - [[../../systems/package-management/flatpak]]
 - [[../../systems/package-management/cosmic-store]]
+- [[../../customization/desktop-navigation]]
 - [[../../systems/graphics-and-display/cosmic]]
 - [[../../systems/graphics-and-display/wayland]]
 - [[../../systems/graphics-and-display/mesa]]

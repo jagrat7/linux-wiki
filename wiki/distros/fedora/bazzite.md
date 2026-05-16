@@ -102,6 +102,10 @@ Bazzite offers KDE Plasma and GNOME variants, plus Steam Gaming Mode for support
 
 Gaming-focused customization includes Steam, Lutris, Decky Loader support, Waydroid, controller support, hardware-specific handheld tooling, and Game Mode/desktop variants.
 
+## Navigation
+
+Bazzite navigation depends on the image selected during download: KDE Plasma, GNOME, or a Steam Gaming Mode-oriented flow. Use [[../../customization/desktop-navigation]] for shared desktop concepts, then follow the selected [[../../systems/graphics-and-display/kde-plasma]], [[../../systems/graphics-and-display/gnome]], or [[../../systems/graphics-and-display/gamescope]] path.
+
 ## Strengths
 
 - Gaming-first defaults with Steam and Lutris preinstalled
@@ -131,6 +135,7 @@ Bazzite is updated through image builds rather than a traditional single-version
 - [[../../systems/package-management/bazaar]]
 - [[../../systems/package-management/homebrew]]
 - [[../../systems/package-management/distrobox]]
+- [[../../customization/desktop-navigation]]
 - [[../../systems/graphics-and-display/kde-plasma]]
 - [[../../systems/graphics-and-display/gnome]]
 - [[../../systems/graphics-and-display/gamescope]]

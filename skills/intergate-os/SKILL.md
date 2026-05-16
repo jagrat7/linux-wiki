@@ -50,6 +50,7 @@ Keep the first pass concise:
 - Core components and tools
 - Install method
 - Release model or update channel if obvious
+- Desktop navigation model, such as launcher, overview, workspaces, tiling, hotkeys, gaming mode, or keyboard-first workflow
 - Target users
 - Major tradeoffs
 - Anything freshness-sensitive, such as latest release or ISO version
@@ -67,6 +68,7 @@ Common component categories:
 - Package manager, community package source, app store, Flatpak/Snap/AppImage support
 - Audio, networking, graphics, boot, snapshot, backup, or rollback tools
 - Theme system, dotfiles, config manager, or OS-specific CLI
+- Navigation and workflow docs for launchers, workspaces, hotkeys, tiling, gaming mode, or desktop shortcuts
 
 For example, an Arch + Hyprland distro might link Arch Linux, Hyprland, Waybar, Walker, Mako, Hyprlock, Alacritty, Neovim, `pacman`, and AUR.
 
@@ -78,6 +80,7 @@ Before editing, tell the user which pages should receive the information:
 
 - `wiki/distros/<name>.md` for the main distro page
 - `wiki/customization/<name>.md` for themes, keybindings, workflow, dotfiles, or desktop behavior
+- `wiki/customization/desktop-navigation.md` for shared launcher, workspace, shortcut, and navigation concepts
 - `wiki/troubleshooting/<name>.md` for project-specific support commands or known failure modes
 - `wiki/recipes/<name>-install-template.md` for a generic install checklist
 - `wiki/discovery/*.md` for recommendation logic
@@ -115,3 +118,4 @@ When the user asks to review before adding anything, respond with:
 - Do not treat marketing claims as neutral facts
 - Do not rely on stale release data without checking current sources
 - Do not add broad Linux concepts to a distro page if they belong in `wiki/systems/`
+- Keep OS-page navigation sections concise and link to shared desktop, window-manager, or customization pages instead of duplicating shortcut tables across distros

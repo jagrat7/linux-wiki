@@ -185,6 +185,7 @@
   },
   "active": "c485b5ab90be235b",
   "lastOpenFiles": [
+    "customization/desktop-navigation.md",
     "distros/arch/omarchy.md",
     "profile/bob.md",
     "profile/demo.md",
@@ -210,7 +211,6 @@
     "systems/package-management/distrobox.md",
     "systems/package-management/homebrew.md",
     "systems/package-management/bazaar.md",
-    "systems/package-management/rpm-ostree.md",
-    "distros/debian/ubuntu.md"
+    "systems/package-management/rpm-ostree.md"
   ]
 }

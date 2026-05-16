@@ -30,9 +30,14 @@ Fedora Silverblue is an atomic GNOME-based Fedora desktop aimed at container-foc
 - App model: [[../../systems/package-management/flatpak]] and containers
 - Install method: ISO download
 
+## Navigation
+
+Fedora Silverblue uses [[../../systems/graphics-and-display/gnome]] for desktop navigation. Start with the overview, app search, workspaces, window switching, and keyboard shortcut settings; use [[../../customization/desktop-navigation]] for shared navigation concepts.
+
 ## Related Pages
 
 - [[index]]
+- [[../../customization/desktop-navigation]]
 - [[../../systems/package-management/rpm-ostree]]
 - [[../../systems/package-management/flatpak]]
 - [[../../systems/graphics-and-display/gnome]]

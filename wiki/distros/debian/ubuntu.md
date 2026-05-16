@@ -86,6 +86,10 @@ Ubuntu uses Debian-family packaging with `apt` and `.deb` packages, while Canoni
 
 Ubuntu Desktop uses GNOME with Ubuntu-specific defaults and integrations. Users commonly customize the desktop through Settings, GNOME extensions, themes, snaps, Debian packages, and optional Flatpak setup.
 
+## Navigation
+
+Ubuntu Desktop uses a [[../../systems/graphics-and-display/gnome]]-family workflow. Start with the overview, app search, workspaces, window switching, and keyboard shortcut settings; use [[../../customization/desktop-navigation]] for shared navigation concepts.
+
 ## Strengths
 
 - Large user base and documentation ecosystem
@@ -111,6 +115,7 @@ Ubuntu 26.04 LTS is the latest LTS release checked on 2026-05-16. Track current 
 - [[../../systems/package-management/apt]]
 - [[../../systems/package-management/snap]]
 - [[../../systems/package-management/flatpak]]
+- [[../../customization/desktop-navigation]]
 - [[../../systems/graphics-and-display/gnome]]
 - [[../../systems/graphics-and-display/wayland]]
 - [[../../systems/graphics-and-display/x11]]

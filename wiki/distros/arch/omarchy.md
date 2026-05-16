@@ -83,6 +83,10 @@ The homepage currently promotes Omarchy 3.8, while GitHub releases show `v3.8.1`
 
 Omarchy customization is centered around the Omarchy Menu, hotkeys, themes, Hyprland configuration, and dotfiles under `~/.config`. The manual documents themes, hotkeys, terminal choices, development tools, shell tools, screenshots, reminders, monitors, fonts, and the `omarchy` CLI.
 
+## Navigation
+
+Omarchy is a keyboard-first [[../../systems/graphics-and-display/hyprland]] system. Start with the Omarchy Menu, hotkeys, launcher, workspaces, and terminal workflow; use [[../../customization/desktop-navigation]] for shared navigation concepts and [[../../customization/window-managers]] for tiling-window-manager context.
+
 ## Strengths
 
 - Fast path to an integrated Arch + Hyprland setup
@@ -115,9 +119,9 @@ The manual points users toward `omarchy-debug` for sharing system information an
 - [[../../systems/package-management/index]]
 - [[../../systems/package-management/pacman]]
 - [[../../systems/graphics-and-display/index]]
+- [[../../customization/desktop-navigation]]
 - [[../../systems/graphics-and-display/hyprland]]
 - [[../../systems/graphics-and-display/waybar]]
 - [[../../systems/graphics-and-display/mako]]
 - [[../../systems/graphics-and-display/hyprlock]]
 - [[../../customization/window-managers]]
-

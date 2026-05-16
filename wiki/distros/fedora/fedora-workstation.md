@@ -80,6 +80,10 @@ Fedora Workstation uses RPM packages managed by `dnf`. It also has strong Flatpa
 
 Fedora Workstation uses GNOME as its default desktop. Users commonly customize through GNOME Settings, GNOME extensions, Flatpak apps, Fedora repositories, and COPR/community packages when appropriate.
 
+## Navigation
+
+Fedora Workstation uses the upstream [[../../systems/graphics-and-display/gnome]] desktop workflow. Start with the overview, app search, workspaces, window switching, and keyboard shortcut settings; use [[../../customization/desktop-navigation]] for shared navigation concepts.
+
 ## Strengths
 
 - Strong upstream GNOME experience
@@ -101,6 +105,7 @@ Fedora Workstation uses GNOME as its default desktop. Users commonly customize t
 - [[../../systems/package-management/dnf]]
 - [[../../systems/package-management/flatpak]]
 - [[../../systems/package-management/fedora-media-writer]]
+- [[../../customization/desktop-navigation]]
 - [[../../systems/graphics-and-display/gnome]]
 - [[../../systems/graphics-and-display/wayland]]
 - [[../../systems/graphics-and-display/x11]]

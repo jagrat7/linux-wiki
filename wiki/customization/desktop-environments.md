@@ -28,3 +28,8 @@ Track desktop environments, their customization model, strengths, and common pit
 - Wayland support
 - Customization depth
 - Stability under updates
+
+## Related Pages
+
+- [[desktop-navigation]]
+- [[window-managers]]

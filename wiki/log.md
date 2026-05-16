@@ -1,5 +1,13 @@
 # Log
 
+## [2026-05-16] customization | Add distro navigation sections
+
+Added shared desktop navigation guidance, linked it from maintained distro pages, updated the distro template, and taught `intergate-os` to collect launcher, workspace, shortcut, and workflow details during future OS ingests.
+
+## [2026-05-16] skill | Add OS discovery skill
+
+Added `discover-os` for focused distro selection interviews and updated `wiki-navigator` to avoid routing broad OS-choice questions into subsystem pages too early.
+
 ## [2026-05-16] skill | Add wiki navigator skill
 
 Added a local `wiki-navigator` skill for routing users to the right wiki entry points before giving Linux discovery, debugging, customization, or package-management guidance.
@@ -87,3 +95,7 @@ Created distro family indexes under `wiki/distros/` and added Omarchy under the 
 ## [2026-05-16] structure | Initial Linux wiki scaffold
 
 Created the starter wiki structure for Linux discovery, debugging, customization, systems, and generic recipes.
+
+## [2026-05-16] tooling | Add wiki lint skill
+
+Added a local wiki-lint skill for structured health checks across links, frontmatter, sources, freshness, contradictions, orphans, index coverage, privacy leaks, and maintenance logs.

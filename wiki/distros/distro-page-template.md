@@ -46,6 +46,14 @@ One paragraph describing what this distro is for.
 
 - 
 
+## Navigation
+
+- Desktop or window manager:
+- Launcher or overview:
+- Workspace model:
+- Shortcut source:
+- Related navigation page: [[../customization/desktop-navigation]]
+
 ## Related Pages
 
 - [[../systems/package-management/index]]

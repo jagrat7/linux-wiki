@@ -30,9 +30,14 @@ Fedora KDE Plasma Desktop is the Fedora desktop edition featuring KDE Plasma.
 - App model: RPM packages and [[../../systems/package-management/flatpak]]
 - Install method: ISO download
 
+## Navigation
+
+Fedora KDE Plasma Desktop uses [[../../systems/graphics-and-display/kde-plasma]] for desktop navigation. Start with the application launcher, KRunner, virtual desktops, window switching, and shortcut settings; use [[../../customization/desktop-navigation]] for shared navigation concepts.
+
 ## Related Pages
 
 - [[index]]
+- [[../../customization/desktop-navigation]]
 - [[../../systems/graphics-and-display/kde-plasma]]
 - [[../../systems/package-management/dnf]]
 - [[../../systems/package-management/flatpak]]

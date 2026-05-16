@@ -21,5 +21,6 @@ Track window-manager workflows, configuration patterns, and setup tradeoffs.
 
 ## Related Pages
 
+- [[desktop-navigation]]
 - [[../systems/graphics-and-display/index]]
 - [[customization-template]]
