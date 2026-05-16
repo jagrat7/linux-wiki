@@ -14,7 +14,7 @@ Debian-family systems include Debian, Ubuntu, Linux Mint, Pop!_OS, elementary OS
 ## Distros
 
 - Debian
-- Ubuntu
+- [[ubuntu]] - Debian-based Canonical distribution and upstream base for many derivatives
 - Linux Mint
 - [[pop-os]] - Ubuntu-based System76 distribution with COSMIC Desktop
 - elementary OS

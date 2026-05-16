@@ -13,10 +13,11 @@ Fedora-family systems include Fedora Workstation, Fedora Atomic desktops, RHEL-f
 
 ## Distros
 
-- Fedora Workstation
-- Fedora KDE Plasma Desktop
-- Fedora Silverblue
-- Fedora Kinoite
+- [[fedora-workstation]] - Flagship Fedora desktop edition with GNOME
+- [[fedora-kde-plasma]] - Fedora desktop edition with KDE Plasma
+- [[fedora-silverblue]] - Atomic GNOME-based Fedora desktop
+- [[fedora-kinoite]] - Atomic KDE Plasma-based Fedora desktop
+- [[bazzite]] - Fedora Atomic/uBlue gaming-focused image for desktops, handhelds, HTPCs, and laptops
 - Red Hat Enterprise Linux
 - Rocky Linux
 - AlmaLinux

@@ -14,7 +14,8 @@ Fedora and RHEL-family package manager.
 
 ## Used By
 
-- Fedora
+- [[../../distros/fedora/fedora-workstation]]
+- [[../../distros/fedora/fedora-kde-plasma]]
 - RHEL-family distributions
 
 ## Related Pages

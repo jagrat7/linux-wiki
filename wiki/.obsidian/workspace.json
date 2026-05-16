@@ -11,10 +11,14 @@
             "id": "c485b5ab90be235b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "systems/package-management/pacman.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pacman"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "systems/package-management/pacman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for pacman"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "systems/package-management/pacman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from pacman"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "systems/package-management/pacman.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of pacman"
             }
           }
         ]
@@ -178,12 +185,32 @@
   },
   "active": "c485b5ab90be235b",
   "lastOpenFiles": [
-    "distros/debian/pop-os.md",
-    "systems/package-management/cosmic-store.md",
-    "systems/graphics-and-display/cosmic.md",
     "distros/arch/omarchy.md",
-    "index.md",
-    "Untitled.md",
-    "distros/arch/index.md"
+    "profile/bob.md",
+    "profile/demo.md",
+    "profile/index.md",
+    "distros/fedora/fedora-kinoite.md",
+    "distros/fedora/fedora-silverblue.md",
+    "distros/fedora/fedora-kde-plasma.md",
+    "distros/fedora/fedora-workstation.md",
+    "systems/package-management/fedora-media-writer.md",
+    "distros/arch/cachyos.md",
+    "systems/graphics-and-display/niri.md",
+    "systems/graphics-and-display/sway.md",
+    "systems/package-management/cachyos-installer.md",
+    "systems/boot-and-init/linux-cachyos.md",
+    "systems/package-management/cachyos-repositories.md",
+    "profile",
+    "distros/fedora/bazzite.md",
+    "systems/graphics-and-display/waydroid.md",
+    "systems/graphics-and-display/lutris.md",
+    "systems/graphics-and-display/steam.md",
+    "systems/graphics-and-display/gamescope.md",
+    "systems/graphics-and-display/kde-plasma.md",
+    "systems/package-management/distrobox.md",
+    "systems/package-management/homebrew.md",
+    "systems/package-management/bazaar.md",
+    "systems/package-management/rpm-ostree.md",
+    "distros/debian/ubuntu.md"
   ]
 }

@@ -24,6 +24,7 @@ Track the boot path from firmware to graphical session.
 ## Common Tools
 
 - [[systemd]] - Init system and service manager
+- [[linux-cachyos]] - CachyOS optimized kernel family
 - [[grub]] - Bootloader
 - [[systemd-boot]] - systemd boot manager
 - [[dracut]] - Initramfs generation tool

@@ -18,9 +18,14 @@ tags: [index]
 
 - [[distros/index]] - Distro family index
 - [[distros/arch/index]] - Arch Linux and Arch-based distributions
+- [[distros/arch/cachyos]] - Performance-focused Arch-based distribution
 - [[distros/arch/omarchy]] - Opinionated Arch + Hyprland distribution by DHH
 - [[distros/debian/index]] - Debian, Ubuntu, and Debian-family distributions
+- [[distros/debian/ubuntu]] - Debian-based Canonical distribution and upstream base for many derivatives
 - [[distros/debian/pop-os]] - Ubuntu-based System76 distribution with COSMIC Desktop
+- [[distros/fedora/index]] - Fedora, RHEL-family, and rpm-ostree relatives
+- [[distros/fedora/fedora-workstation]] - Flagship Fedora desktop edition with GNOME
+- [[distros/fedora/bazzite]] - Fedora Atomic/uBlue gaming-focused image
 - [[distros/distro-page-template]] - Template for maintained distro pages
 
 ## Systems

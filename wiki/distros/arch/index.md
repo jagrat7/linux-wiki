@@ -13,6 +13,7 @@ Arch-family systems share Arch Linux as the upstream base or primary package eco
 
 ## Distros
 
+- [[cachyos]] - Performance-focused Arch-based distribution with optimized packages and kernels
 - [[omarchy]] - Opinionated Arch + Hyprland distribution by DHH
 
 ## Shared Notes

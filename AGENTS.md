@@ -8,11 +8,14 @@ This repository is an LLM-maintained Linux companion wiki. It helps users discov
 
 - Build and maintain wiki pages under `wiki/`
 - Store immutable source material under `raw/`
-- Do not create user profile pages in this repo
+- Store user preference profiles as structured data or memory-backed records
+- Store brief human-readable profile summaries under `wiki/profile/`
 - Keep `wiki/recipes/` generic and reusable
 - Prefer practical, source-backed guidance over broad opinion
 
 ## Operating Modes
+
+Start with the local `skills/wiki-navigator` skill when a user asks for Linux discovery, debugging direction, customization guidance, package-management help, or where to begin in the wiki. Use it to route the user to the right wiki entry points before answering from memory or live sources.
 
 Use the local `skills/intergate-os` skill when adding or updating wiki information about a Linux OS, distro, desktop environment, subsystem, official docs, release notes, install guide, demo video, or source repository.
 
@@ -63,6 +66,7 @@ Prefer distro-native tools and documented configuration locations.
 ## Source Rules
 
 - Raw sources are immutable
+- Use local wiki pages, raw sources, and repo files first. Do not use web search unless the user explicitly asks for it.
 - Wiki pages may synthesize sources, but should cite them
 - Mark stale or uncertain claims clearly
 - Prefer official documentation for commands, installation steps, and distro-specific behavior
@@ -104,10 +108,26 @@ Common `type` values:
 - `recipe`
 - `index`
 - `log`
+- `profile`
+
+## Profile Pages
+
+`wiki/profile/` stores brief summaries of user preference profiles. Keep full profile data, raw evidence, private details, and operational state in Redis or another memory backend.
+
+Profile summaries should include:
+
+- Technical level
+- Workloads
+- Interests
+- Hardware signals
+- Terminal, debugging, and tinkering comfort
+- Linux preferences
+
+Do not store secrets, hostnames, private paths, raw conversation dumps, or long evidence logs in profile pages.
 
 ## Recipes
 
-Recipes are generic templates for repeatable Linux tasks. Do not store a user's personal machine profile, preferences, secrets, hostnames, private paths, or identity-specific details in recipes.
+Recipes are generic templates for repeatable Linux tasks. Do not store secrets, hostnames, private paths, or identity-specific details in recipes.
 
 Each recipe should include:
 
