@@ -28,7 +28,3 @@ Track Linux audio layers, devices, routing, and common failure modes.
 - [[pulseaudio]] - Older audio server still relevant for compatibility
 - [[pavucontrol]] - GUI mixer and routing tool
 - [[wpctl]] - PipeWire/WirePlumber control CLI
-
-## Debugging Links
-
-- [[../../troubleshooting/audio-issues]]

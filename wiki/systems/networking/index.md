@@ -29,7 +29,3 @@ Track connectivity, Wi-Fi, Bluetooth, DNS, interfaces, and network services.
 - [[systemd-resolved]] - DNS resolver service
 - [[rfkill]] - Radio block/unblock utility
 - [[bluez]] - Linux Bluetooth stack
-
-## Debugging Links
-
-- [[../../troubleshooting/networking-issues]]

@@ -19,6 +19,8 @@ tags: [index]
 - [[distros/index]] - Distro family index
 - [[distros/arch/index]] - Arch Linux and Arch-based distributions
 - [[distros/arch/omarchy]] - Opinionated Arch + Hyprland distribution by DHH
+- [[distros/debian/index]] - Debian, Ubuntu, and Debian-family distributions
+- [[distros/debian/pop-os]] - Ubuntu-based System76 distribution with COSMIC Desktop
 - [[distros/distro-page-template]] - Template for maintained distro pages
 
 ## Systems
@@ -28,15 +30,6 @@ tags: [index]
 - [[systems/graphics-and-display/index]] - GPUs, display servers, compositors, and drivers
 - [[systems/audio/index]] - PipeWire, PulseAudio, ALSA, devices, and routing
 - [[systems/networking/index]] - NetworkManager, interfaces, DNS, Wi-Fi, and Bluetooth
-
-## Troubleshooting
-
-- [[troubleshooting/troubleshooting-template]] - Template for evidence-based debugging pages
-- [[troubleshooting/boot-failures]] - System does not boot or reaches the wrong target
-- [[troubleshooting/package-conflicts]] - Broken packages, dependency conflicts, and failed upgrades
-- [[troubleshooting/graphics-issues]] - Black screens, driver problems, Wayland/X11 issues
-- [[troubleshooting/networking-issues]] - Wi-Fi, DNS, connectivity, and Bluetooth issues
-- [[troubleshooting/audio-issues]] - Missing devices, no sound, low volume, and routing issues
 
 ## Customization
 
@@ -56,4 +49,3 @@ tags: [index]
 ## Maintenance
 
 - [[log]] - Chronological maintenance log
-- [[open-questions]] - Gaps, unknowns, and future research questions

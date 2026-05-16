@@ -29,13 +29,10 @@ Track package managers, repositories, update models, package formats, and confli
 - [[apt]] - Debian-family package frontend
 - [[dnf]] - Fedora/RHEL-family package manager
 - [[zypper]] - openSUSE package manager
+- [[cosmic-store]] - App store used by COSMIC/Pop!_OS
 - [[flatpak]] - Cross-distro desktop application packaging
 - [[snap]] - Canonical-backed application packaging
 - [[appimage]] - Portable Linux application format
-
-## Debugging Links
-
-- [[../../troubleshooting/package-conflicts]]
 
 ## Recipe Links
 

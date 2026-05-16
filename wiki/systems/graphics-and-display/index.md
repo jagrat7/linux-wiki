@@ -23,6 +23,7 @@ Track GPU drivers, display servers, compositors, monitors, scaling, and session 
 
 ## Common Tools
 
+- [[cosmic]] - System76 desktop environment used by Pop!_OS
 - [[wayland]] - Modern Linux display server protocol
 - [[x11]] - Legacy Linux display server system
 - [[hyprland]] - Wayland compositor and tiling window manager
@@ -31,7 +32,3 @@ Track GPU drivers, display servers, compositors, monitors, scaling, and session 
 - [[hyprlock]] - Hyprland lock screen
 - [[mesa]] - Open graphics driver stack
 - [[nvidia-driver]] - NVIDIA proprietary driver notes
-
-## Debugging Links
-
-- [[../../troubleshooting/graphics-issues]]

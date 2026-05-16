@@ -1,5 +1,9 @@
 # Log
 
+## [2026-05-16] distro | Add Pop!_OS and COSMIC seed pages
+
+Added Pop!_OS under the Debian family and created seed system pages for COSMIC and COSMIC Store.
+
 ## [2026-05-16] structure | Convert systems pages to subsystem folders
 
 Moved system topic pages into folders with `index.md` files and added seed pages for common tools under package management, graphics/display, audio, networking, and boot/init.

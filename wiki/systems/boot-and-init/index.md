@@ -30,7 +30,3 @@ Track the boot path from firmware to graphical session.
 - [[mkinitcpio]] - Arch initramfs generation tool
 - [[efibootmgr]] - UEFI boot entry tool
 - [[journalctl]] - systemd journal log viewer
-
-## Debugging Links
-
-- [[../../troubleshooting/boot-failures]]

@@ -16,7 +16,7 @@ Debian-family systems include Debian, Ubuntu, Linux Mint, Pop!_OS, elementary OS
 - Debian
 - Ubuntu
 - Linux Mint
-- Pop!_OS
+- [[pop-os]] - Ubuntu-based System76 distribution with COSMIC Desktop
 - elementary OS
 
 ## Shared Notes

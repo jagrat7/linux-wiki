@@ -49,7 +49,6 @@ One paragraph describing what this distro is for.
 ## Related Pages
 
 - [[../systems/package-management/index]]
-- [[../troubleshooting/troubleshooting-template]]
 
 ## Sources
 
