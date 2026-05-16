@@ -1,6 +1,6 @@
 ---
 name: intergate-os
-description: Collect and organize public source links and key facts for a Linux OS, distro, desktop, or Linux project before adding it to this wiki. Use when Codex needs to extract official docs, manuals, demo videos, install guides, ISO/download links, GitHub/source repos, release notes, community links, screenshots, project ownership, and basic positioning for distro discovery pages.
+description: Collect and organize public source links and key facts from a Linux OS, distro, desktop, or Linux project homepage or source repository before adding it to this wiki. Use when Codex is given an OS homepage, GitHub/GitLab/Codeberg repo, official docs page, or equivalent canonical source and needs to extract official docs, manuals, demo videos, install guides, ISO/download links, release notes, community links, screenshots, project ownership, component/tool links, and basic positioning for distro discovery pages. If no homepage or source repo is provided, ask the user for one before proceeding.
 ---
 
 # Intergate OS
@@ -10,6 +10,17 @@ description: Collect and organize public source links and key facts for a Linux 
 Collect the important source links and starter facts for a Linux OS or distro before writing wiki pages.
 
 This skill is for source discovery and extraction, not live system debugging.
+
+## Required Input
+
+Start from at least one canonical project source:
+
+- OS or distro homepage
+- Official GitHub, GitLab, Codeberg, or source repository
+- Official docs or manual page
+- Official download or release page
+
+If the user only gives a distro name, vague description, screenshot, video, or third-party article, ask for the official homepage or source repo before doing the main extraction.
 
 ## Collect These Links
 
@@ -25,6 +36,7 @@ For each OS or distro, look for:
 - Community links such as Discord, forum, Matrix, Reddit, Mastodon, or mailing list
 - Workstation, hardware, or compatibility pages
 - Sponsoring organization, parent project, or maintainer page
+- Official links for core tools and components the OS uses
 
 ## Extract These Facts
 
@@ -35,11 +47,30 @@ Keep the first pass concise:
 - Base distro or family
 - Desktop environment or window manager
 - Package manager
+- Core components and tools
 - Install method
 - Release model or update channel if obvious
 - Target users
 - Major tradeoffs
 - Anything freshness-sensitive, such as latest release or ISO version
+
+## Component Links
+
+Create a concise component list when the source names specific tools. Prefer official project sites or source repositories.
+
+Common component categories:
+
+- Base distro
+- Desktop environment or window manager
+- Display server, compositor, bar, launcher, notification daemon, lock screen, idle manager
+- Terminal, shell, editor, file manager, browser
+- Package manager, community package source, app store, Flatpak/Snap/AppImage support
+- Audio, networking, graphics, boot, snapshot, backup, or rollback tools
+- Theme system, dotfiles, config manager, or OS-specific CLI
+
+For example, an Arch + Hyprland distro might link Arch Linux, Hyprland, Waybar, Walker, Mako, Hyprlock, Alacritty, Neovim, `pacman`, and AUR.
+
+If a component is important beyond one distro, also consider whether it needs a page or link from `wiki/systems/`.
 
 ## Where To Put It
 
@@ -74,6 +105,7 @@ When the user asks to review before adding anything, respond with:
 
 - Links found
 - Facts extracted
+- Component/tool links found
 - Suggested wiki pages
 - Open questions or uncertain claims
 

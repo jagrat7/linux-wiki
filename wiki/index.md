@@ -16,15 +16,18 @@ tags: [index]
 
 ## Distros
 
+- [[distros/index]] - Distro family index
+- [[distros/arch/index]] - Arch Linux and Arch-based distributions
+- [[distros/arch/omarchy]] - Opinionated Arch + Hyprland distribution by DHH
 - [[distros/distro-page-template]] - Template for maintained distro pages
 
 ## Systems
 
-- [[systems/package-management]] - Package managers, repositories, updates, and conflicts
-- [[systems/boot-and-init]] - Firmware, bootloaders, init systems, and system startup
-- [[systems/graphics-and-display]] - GPUs, display servers, compositors, and drivers
-- [[systems/audio]] - PipeWire, PulseAudio, ALSA, devices, and routing
-- [[systems/networking]] - NetworkManager, interfaces, DNS, Wi-Fi, and Bluetooth
+- [[systems/package-management/index]] - Package managers, repositories, updates, and conflicts
+- [[systems/boot-and-init/index]] - Firmware, bootloaders, init systems, and system startup
+- [[systems/graphics-and-display/index]] - GPUs, display servers, compositors, and drivers
+- [[systems/audio/index]] - PipeWire, PulseAudio, ALSA, devices, and routing
+- [[systems/networking/index]] - NetworkManager, interfaces, DNS, Wi-Fi, and Bluetooth
 
 ## Troubleshooting
 

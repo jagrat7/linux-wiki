@@ -43,4 +43,4 @@ Always name tradeoffs around:
 
 - [[grill-me]]
 - [[../distros/distro-page-template]]
-- [[../systems/package-management]]
+- [[../systems/package-management/index]]

@@ -38,5 +38,5 @@ command -v <binary>
 
 ## Related Pages
 
-- [[../systems/package-management]]
+- [[../systems/package-management/index]]
 - [[../troubleshooting/package-conflicts]]
