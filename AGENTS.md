@@ -14,6 +14,8 @@ This repository is an LLM-maintained Linux companion wiki. It helps users discov
 
 ## Operating Modes
 
+Use the local `skills/intergate-os` skill when adding or updating wiki information about a Linux OS, distro, desktop environment, subsystem, official docs, release notes, install guide, demo video, or source repository.
+
 ### Discovery Mode
 
 Use this when a user is choosing a distro, desktop environment, window manager, workflow, package strategy, or installation path.
