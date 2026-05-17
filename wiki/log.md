@@ -40,6 +40,10 @@ Added CachyOS under the Arch family and created seed system pages for CachyOS re
 
 Added Bazzite under the Fedora family and created seed system pages for Bazzite's atomic, gaming, and app-management components.
 
+## [2026-05-17] tooling | Clarify update-os component replacement workflow
+
+Updated the `update-os` skill and maintainer routing so existing OS refreshes, including component replacements such as Waybar to Quickshell, use the update workflow instead of the initial ingest workflow.
+
 ## [2026-05-16] distro | Add Ubuntu seed page
 
 Added Ubuntu under the Debian family and created a GNOME system page for Ubuntu Desktop links.

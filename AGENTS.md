@@ -19,7 +19,9 @@ Start with the local `skills/discover-os` skill when a user is choosing a Linux 
 
 Start with the local `skills/wiki-navigator` skill when a user asks for debugging direction, customization guidance, package-management help, or where to begin in the wiki. Use it to route the user to the right wiki entry points before answering from memory or live sources.
 
-Use the local `skills/intergate-os` skill when adding or updating wiki information about a Linux OS, distro, desktop environment, subsystem, official docs, release notes, install guide, demo video, or source repository.
+Use the local `skills/intergate-os` skill when adding new wiki information about a Linux OS, distro, desktop environment, subsystem, official docs, install guide, demo video, or source repository.
+
+Use the local `skills/update-os` skill when refreshing existing wiki information after a new release, renamed or replaced component, changed install path, updated ISO/download, release notes, changelog, changed upstream guidance, or status change.
 
 Use the local `skills/wiki-lint` skill when linting, auditing, health-checking, cleaning up, or validating the wiki for broken links, stale claims, source gaps, contradictions, orphan pages, index coverage, frontmatter, privacy leaks, or log gaps.
 
