@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "oma",
+  "search": "arch",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6926057406699679,
+  "scale": 0.9061409032099627,
   "close": false
 }
